@@ -774,3 +774,16 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
+
+      body {
+        color: #343a40;
+      }
+    
+      a {
+        color: #f03e3e;
+      }
+    
+      a:hover {
+        color: #ff6b6b;
+      }
+    
